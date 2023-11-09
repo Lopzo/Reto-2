@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ElfoGuerrero
+comment1.params=nombre
+comment1.target=ElfoGuerrero(java.lang.String)
+comment2.params=
+comment2.target=void\ definirAtributosDeRaza()
+comment3.params=
+comment3.target=void\ definirAtributosDeClase()
+numComments=4

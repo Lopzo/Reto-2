@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Raza
+comment1.params=
+comment1.target=int\ getSalud()
+comment2.params=
+comment2.target=int\ getDefensa()
+comment3.params=
+comment3.target=int\ getAtaque()
+numComments=4
