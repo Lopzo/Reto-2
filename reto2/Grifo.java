@@ -1,10 +1,3 @@
-
-/**
- * Write a description of class Grifo here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Grifo extends Personaje {
     public Grifo(String nombre) {
         super(nombre, 180, 40, 35);

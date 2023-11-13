@@ -1,10 +1,3 @@
-
-/**
- * Write a description of class Demonio here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Demonio extends Personaje {
     public Demonio(String nombre) {
         super(nombre, 120, 30, 25);

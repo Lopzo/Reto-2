@@ -1,10 +1,4 @@
 
-/**
- * Write a description of class OrcoGuerrero here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class OrcoGuerrero extends Personaje {
     public OrcoGuerrero(String nombre) {
         super(nombre, 150, 80, 120);

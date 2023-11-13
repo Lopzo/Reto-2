@@ -1,10 +1,4 @@
 
-/**
- * Write a description of class Dragon here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Dragon extends Personaje {
     public Dragon(String nombre) {
         super(nombre, 200, 50, 30);
