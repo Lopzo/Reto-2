@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=JuegoFantasia
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scanner
+comment2.target=void\ crearPersonaje(java.util.Scanner)
+comment3.params=personaje
+comment3.target=void\ pelea(Personaje)
+numComments=4

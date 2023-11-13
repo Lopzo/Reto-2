@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Duende
+comment1.params=nombre
+comment1.target=Duende(java.lang.String)
+comment2.params=enemigo
+comment2.target=void\ atacar(Personaje)
+numComments=3
